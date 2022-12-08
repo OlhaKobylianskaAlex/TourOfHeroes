@@ -1,6 +1,6 @@
 # Application implementation TourOfHeroes
 
-### Page from HEROKU: https://tour-of-heroes-110822.herokuapp.com/dashboard
+### Page from Firebase: https://tourofheroes-757f2.web.app/
 
 <hr>
 
